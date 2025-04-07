@@ -1,4 +1,3 @@
-# ProjetoExtensao
-Desenvolvimento de um game para um trabalho de faculdade
+# Projeto Extensão
 
-adois
+Desenvolvimento de um game para um trabalho de faculdade
