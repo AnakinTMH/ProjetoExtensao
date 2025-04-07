@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"5dd940897b8a6e95","x":-100,"y":-140,"width":210,"height":80,"color":"1","type":"text","text":"## Tema Saúde e Ambiente"},
+		{"id":"30a8e43d662a0563","x":251,"y":-122,"width":129,"height":60,"type":"text","text":"### Plantas"},
+		{"id":"3d8bb0a5080d63f1","x":360,"y":20,"width":216,"height":60,"type":"text","text":"### Desmatamento"},
+		{"id":"a125bc85f4193fc0","x":-280,"y":50,"width":146,"height":50,"type":"text","text":"### Animais"},
+		{"id":"8972e106700a99df","x":-409,"y":-100,"width":129,"height":50,"type":"text","text":"### ONGs\n"},
+		{"id":"f51cde5283902f68","x":-409,"y":-242,"width":154,"height":60,"type":"text","text":"### Dinheiro"},
+		{"id":"baebc8d5b991fdc6","x":-280,"y":-400,"width":131,"height":60,"type":"text","text":"### Desvio"},
+		{"id":"0d7fa2782bf3d04b","x":5,"y":-302,"width":134,"height":60,"type":"text","text":"### Médico"},
+		{"id":"3439c04e25c350c9","x":-640,"y":15,"width":143,"height":60,"type":"text","text":"### Projetos"}
+	],
+	"edges":[
+		{"id":"23eea67c224b6d9f","fromNode":"5dd940897b8a6e95","fromSide":"right","toNode":"30a8e43d662a0563","toSide":"left"},
+		{"id":"5cca4d2f8f8e23bb","fromNode":"5dd940897b8a6e95","fromSide":"bottom","toNode":"a125bc85f4193fc0","toSide":"top"},
+		{"id":"2d997bf17c1a4c00","fromNode":"30a8e43d662a0563","fromSide":"bottom","toNode":"3d8bb0a5080d63f1","toSide":"top"},
+		{"id":"dceab8e818137ace","fromNode":"5dd940897b8a6e95","fromSide":"top","toNode":"0d7fa2782bf3d04b","toSide":"bottom"},
+		{"id":"2a781ed6a19aa1fd","fromNode":"5dd940897b8a6e95","fromSide":"left","toNode":"8972e106700a99df","toSide":"right"},
+		{"id":"4a9f39400fca2767","fromNode":"8972e106700a99df","fromSide":"top","toNode":"f51cde5283902f68","toSide":"bottom"},
+		{"id":"9a0e2d8a9fb661d9","fromNode":"f51cde5283902f68","fromSide":"top","toNode":"baebc8d5b991fdc6","toSide":"bottom"},
+		{"id":"16773d3394058e52","fromNode":"8972e106700a99df","fromSide":"bottom","toNode":"a125bc85f4193fc0","toSide":"left"},
+		{"id":"fb761616268f292c","fromNode":"8972e106700a99df","fromSide":"left","toNode":"3439c04e25c350c9","toSide":"right"}
+	]
+}

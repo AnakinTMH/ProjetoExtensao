@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"a38bb6b319c624a7","type":"text","text":"### Objetivo Principal do Jogo","x":-25,"y":-575,"width":250,"height":90,"color":"1"},
+		{"id":"c90e19442be13a53","type":"text","text":"### Desafios e Obstáculos","x":-260,"y":-575,"width":180,"height":90,"color":"2"},
+		{"id":"f82ca122270f6d70","type":"text","text":"### Mecânica do Jogo\n","x":-560,"y":-560,"width":250,"height":60,"color":"3"},
+		{"id":"eaa39104b325d0a1","type":"text","text":"### Mundo e Contexto","x":-860,"y":-560,"width":250,"height":60,"color":"4"},
+		{"id":"d36cac0db5a3ad66","type":"text","text":"Conscientização Sobre Saúde e Meio Ambiente ","x":-25,"y":-400,"width":250,"height":60},
+		{"id":"221f7b457b1d542f","type":"text","text":"## Ideias de Temas","x":320,"y":-575,"width":1860,"height":195},
+		{"id":"ea6dea4866e5d955","type":"text","text":"### Jogo de Abelha","x":440,"y":-505,"width":250,"height":60,"color":"2"},
+		{"id":"b9cbc8be9a042327","type":"text","text":"### Jogo da Gota d'água ","x":738,"y":-505,"width":250,"height":60,"color":"2"},
+		{"id":"c3f5f61429e6aa87","type":"text","text":"### Jogo da Larva","x":1040,"y":-505,"width":200,"height":60,"color":"2"},
+		{"id":"6787cf59d1ed1f17","type":"text","text":"### Jogo da Nuvem ","x":1280,"y":-505,"width":250,"height":60,"color":"2"},
+		{"id":"74f73e1261250b15","type":"text","text":"### Jogo do Pombo ","x":1580,"y":-505,"width":250,"height":60,"color":"2"},
+		{"id":"f548f425c2069b69","x":-25,"y":-220,"width":250,"height":60,"type":"text","text":"Restaurar um Parque"},
+		{"id":"257ba83dcac0d744","type":"text","text":"### Jogo de Restaurar o Parque ⭐","x":1880,"y":-513,"width":250,"height":77,"color":"2"}
+	],
+	"edges":[
+		{"id":"5f977d78b9bfcea4","fromNode":"a38bb6b319c624a7","fromSide":"bottom","toNode":"d36cac0db5a3ad66","toSide":"top"},
+		{"id":"f958737c6f006225","fromNode":"d36cac0db5a3ad66","fromSide":"bottom","toNode":"f548f425c2069b69","toSide":"top"}
+	]
+}
