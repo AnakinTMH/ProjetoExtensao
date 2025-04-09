@@ -23,3 +23,10 @@
 - [ ] Birico
 - [ ] Picles
 - [ ] Nhoque
+
+---
+## Lista de NPCs
+
+
+
+---

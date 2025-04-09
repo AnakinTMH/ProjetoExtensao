@@ -2,7 +2,6 @@
 Os Sprites serão feitos no tamanho equivalente a 16x16 ou 16x32 pixeis.
 
 ---
-
 ## Lista de possíveis paletas de cores
 
 - [ ] Verdant Nebula
@@ -25,3 +24,35 @@ Os Sprites serão feitos no tamanho equivalente a 16x16 ou 16x32 pixeis.
 ![[Pasted image 20250407200603.png]]  
 - [ ] Nostalgic-Dreams
 ![[Pasted image 20250407200551.png]]  
+
+---
+## Personagens
+
+- ### Base
+Sprite Básico da forma "Padrão" de medida dos sprites dos personagens a seguir 
+![[Pasted image 20250409003132.png]]
+
+- ### Principal
+  
+
+---
+## Estruturas
+
+
+---
+## Terreno
+
+
+---
+## Recursos
+
+
+---
+## Decorações 
+
+
+---
+## UI
+
+
+---

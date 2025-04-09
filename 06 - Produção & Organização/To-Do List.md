@@ -3,7 +3,9 @@
 - [ ] Decidir Estilo Gráfico que será utilizado
 - [x] Decidir qual Engine será utilizada
 - [x] Decidir quais softwares serão utilizados
-- [ ] Pegar referências no itch.io para assets
+- [x] Pegar referências no itch.io para assets
 - [x] Pegar referências de Jogos 
 - [ ] Decidir paleta de cores
-- [ ] Decidir tamanho dos assets (px)
+- [x] Decidir tamanho dos assets (px)
+- [x] Esboço de design do personagem principal 
+- [x] Decidir um Título para o Game
