@@ -26,11 +26,17 @@ Os Sprites serão feitos no tamanho equivalente a 16x16 ou 16x32 pixeis.
 ![[Pasted image 20250407200551.png]]  
 
 ---
+
+## Logo 
+
+![[ElesQueLimpemLogo.png]]
+
+---
 ## Personagens
 
 - ### Base
 Sprite Básico da forma "Padrão" de medida dos sprites dos personagens a seguir 
-![[Pasted image 20250409003132.png]]
+![[Pasted image 20250409234726.png]]
 
 - ### Principal
   
