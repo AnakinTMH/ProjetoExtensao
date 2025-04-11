@@ -1,6 +1,6 @@
 
 - [x] Decidir tema principal do Game
-- [ ] Decidir Estilo Gráfico que será utilizado
+- [x] Decidir Estilo Gráfico que será utilizado
 - [x] Decidir qual Engine será utilizada
 - [x] Decidir quais softwares serão utilizados
 - [x] Pegar referências no itch.io para assets
@@ -10,8 +10,9 @@
 - [x] Projetar design da base do personagem 
 - [x] Decidir um Título para o Game
 - [x] Projetar uma Logo pra o Game
-- [ ] Criar SpriteSheet de Idle da base dos personagens
-- [ ] Criar SpriteSheet de Walking da base dos personagens
+- [x] Criar SpriteSheet de Idle da base dos personagens
+- [x] Criar SpriteSheet de Walking da base dos personagens
+- [x] Decidir membros de NPCs em cada Grupo
 - [ ] Projetar possível sprite do Principal
 - [ ] Projetar possíveis sprites dos NPCs
 - [ ] Projetar Mapa do Game

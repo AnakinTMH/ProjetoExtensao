@@ -38,6 +38,8 @@ Os Sprites serão feitos no tamanho equivalente a 16x16 ou 16x32 pixeis.
 Sprite Básico da forma "Padrão" de medida dos sprites dos personagens a seguir 
 ![[Pasted image 20250409234726.png]]
 
+![[WalkAndIdle.gif]]
+
 - ### Principal
   
 
