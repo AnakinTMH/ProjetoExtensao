@@ -41,6 +41,10 @@ Sprite Básico da forma "Padrão" de medida dos sprites dos personagens a seguir
 ![[WalkAndIdle.gif]]
 
 - ### Principal
+Sprite dos 2 personagens jogáveis, Koda e Mochi em Idle e Walking
+![[KodaWalkAndIdle.gif]]
+![[MochiWalkAndIdle.gif]]
+
   
 
 ---

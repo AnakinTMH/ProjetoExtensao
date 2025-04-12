@@ -18,24 +18,30 @@
 - [ ] Corvo
 - [ ] Pinguim -> Foi utilizado para um NPC do Grupo 1
 - [ ] Ovelha
-- [ ] Axolote
+- [ ] Axolote  -> Foi utilizado para um NPC do Grupo 2
 - [ ] Quati
 
 ---
 ## Ideias de Nomes do Principal
 
-- [ ] Plínio
-- [ ] Poppers
-- [ ] Yoyô -> Nome da NPC do Grupo 3 
+- [ ] Plínio -> Nome da NPC Pinguim
+- [ ] Poppers -> Nome da NPC Porco da Índia
+- [ ] Yoyô -> Nome da NPC Rato 
 - [ ] Pantufas
 - [ ] Pluma
 - [ ] Laleco
-- [ ] Crocs
+- [ ] Crocs -> Nome da NPC Sapo
 - [ ] Biju
 - [ ] Birico
 - [ ] Picles
 - [ ] Nhoque
-- [ ] Gimbo
+- [ ] Gimbo -> Nome da NPC Kiwi
+- [ ] Yuki -> Nome da NPC Coelho
+- [ ] Celeste
+- [ ] Shell -> Nome da NPC Axolote
+- [ ] Tiko
+- [x] Koda -> Nome do Principal Gecko
+- [x] Mochi -> Nome da Principal Furão
 
 ---
 ## Lista de NPCs
@@ -46,22 +52,22 @@
 
 ### Grupo 1 -
 
-1. "Nome" - "Coelho"
+1. "Yuki" - "Coelho"
 2. "Crocs" - "Sapo"
-3. "Nome" - "Pinguim"
+3. "Plínio" - "Pinguim"
 
 ### Grupo 2 - 
 
-1. "Nome" - "Porco da Índia"
-2. "Nome" - "Kiwi"
-3. "Nome" - "Raça"
+1. "Poppers" - "Porco da Índia"
+2. "Gimbo" - "Kiwi"
+3. "Shell" - "Axolote"
 
 ### Grupo 3 - 
 
 1. "Punky" - "Pato"
 2. "Yoyô" - "Rato"
 3. Principal pode ser Ele ou Ela
-   caso escolha Ele, será um Gecko chamado
-   caso escolha Ela, será um  Furão chamado   
+   caso escolha Ele, será um Gecko chamado Koda
+   caso escolha Ela, será um  Furão chamado Mochi  
 
 ---

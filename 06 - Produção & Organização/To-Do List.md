@@ -13,6 +13,12 @@
 - [x] Criar SpriteSheet de Idle da base dos personagens
 - [x] Criar SpriteSheet de Walking da base dos personagens
 - [x] Decidir membros de NPCs em cada Grupo
-- [ ] Projetar possível sprite do Principal
+- [x] Decidir nome dos Principais
+- [x] Decidir nome dos NPCs membros dos Grupos
+- [x] Projetar possível sprite do Principal
+- [x] Criar SpriteSheet de Idle do personagem Koda
+- [x] Criar SpriteSheet de Idle da personagem Mochi
+- [x] Criar SpriteSheet de Walking do personagem Koda
+- [x] Criar SpriteSheet de Walking da personagem Mochi
 - [ ] Projetar possíveis sprites dos NPCs
 - [ ] Projetar Mapa do Game
