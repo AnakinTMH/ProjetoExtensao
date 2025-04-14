@@ -5,7 +5,6 @@
 - [x] Decidir quais softwares serão utilizados
 - [x] Pegar referências no itch.io para assets
 - [x] Pegar referências de Jogos 
-- [ ] Decidir paleta de cores
 - [x] Decidir tamanho dos assets (px)
 - [x] Projetar design da base do personagem 
 - [x] Decidir um Título para o Game
@@ -20,5 +19,8 @@
 - [x] Criar SpriteSheet de Idle da personagem Mochi
 - [x] Criar SpriteSheet de Walking do personagem Koda
 - [x] Criar SpriteSheet de Walking da personagem Mochi
+- [x] Projetar Sprite do Busão
+- [x] Testar outras paletas de cor
+- [ ] Decidir paleta de cores
 - [ ] Projetar possíveis sprites dos NPCs
 - [ ] Projetar Mapa do Game
