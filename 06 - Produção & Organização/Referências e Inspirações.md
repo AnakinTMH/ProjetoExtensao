@@ -16,8 +16,14 @@
    Jogue como um nabo fofo que, por acaso, é uma completa ameaça à sociedade. Após cometer evasão fiscal e ser despejado de sua casa, você precisará partir em uma missão épica para pagar sua dívida estratosférica com o Prefeito Cebola. Use ferramentas de jardinagem para resolver desafios plantásticos, fale com frutas e vegetais excêntricos e enfrente animais grandes e pequenos. Ao longo da jornada, desvende o que está apodrecendo essa comunidade horteira e derrube o governo vegetal corrupto!
 
 4. [Kindergarten](https://store.steampowered.com/app/589590/Kindergarten/) 
+   
    ![[Pasted image 20250408152059.png]]
    Kindergarten é um jogo de aventura e quebra-cabeça abstrato. Você joga como um aluno em uma escola que é um pouco... estranha. A professora está tentando se livrar de seus filhos. O zelador é visto frequentemente limpando sangue. O refeitório está servindo a mesma sujeira repetidamente. As crianças estão andando por aí com dispositivos estranhos plantados nelas após visitar o diretor, e um de seus colegas de classe desapareceu. Cabe a você descobrir o que está acontecendo, porque sua vida pode depender disso.
+
+5. [Bloomtown: A Different Story](https://store.steampowered.com/app/2445990/Bloomtown_A_Different_Story/) 
+   
+   ![[Pasted image 20250414130903.png]]
+   Bloomtown: A Different Story é um JRPG narrativo que mescla combate por turnos, domesticação de monstros e RPG social que se passa num agradável mundo estadunidense dos anos 1960.
 
 ---
 ## Lista de Assets que me inspiram:

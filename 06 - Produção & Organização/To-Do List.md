@@ -21,6 +21,8 @@
 - [x] Criar SpriteSheet de Walking da personagem Mochi
 - [x] Projetar Sprite do Busão
 - [x] Testar outras paletas de cor
+- [x] Criar animação do Busão
+- [x] Postar para pegar Feedbacks sobre a Paleta
 - [ ] Decidir paleta de cores
 - [ ] Projetar possíveis sprites dos NPCs
 - [ ] Projetar Mapa do Game

@@ -10,19 +10,19 @@ Os Sprites serão feitos no tamanho equivalente a 16x16 ou 16x32 pixeis.
 ![[Pasted image 20250407203039.png]]  
 - [ ] Plantain mountains
 ![[Pasted image 20250407203051.png]]  
-- [ ] Wood and Steel
+- [ ] Wood and Steel - Created by
 ![[Pasted image 20250407200806.png]]  
-- [ ] GB Monkee
+- [ ] GB Monkee - Created by sweebee
 ![[Pasted image 20250407200746.png]]  
-- [ ] SkyLyte5
+- [ ] SkyLyte5 - Created by Benjamin Yandon
 ![[Pasted image 20250407200757.png]]  
-- [ ] SLSO8
+- [ ] SLSO8 - Created by Luis Miguel Maldonado
 ![[Pasted image 20250407200627.png]]  
-- [ ] DreamScape8
+- [ ] DreamScape8 - Created by Kerrie Lake
 ![[Pasted image 20250407200614.png]]  
-- [ ] BorkFest
+- [ ] BorkFest - Created by まるき
 ![[Pasted image 20250407200603.png]]  
-- [ ] Nostalgic-Dreams
+- [ ] Nostalgic-Dreams - Created by Anubi
 ![[Pasted image 20250407200551.png]]  
 
 ---
@@ -50,6 +50,8 @@ Sprite dos 2 personagens jogáveis, Koda e Mochi em Idle e Walking
 ---
 ## Estruturas
 
+- ### Busão
+![[BusSprite.gif]]
 
 ---
 ## Terreno
