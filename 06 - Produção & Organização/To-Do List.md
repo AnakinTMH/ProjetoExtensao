@@ -24,5 +24,12 @@
 - [x] Criar animação do Busão
 - [x] Postar para pegar Feedbacks sobre a Paleta
 - [ ] Decidir paleta de cores
+- [x] Projetar novamente sprites da Mochi
+- [x] Projetar Sprites do Punky
+- [x] Projetar Sprites da Yoyô
+- [x] Projetar Sprites do Poppers
+- [x] Projetar Sprites da Gimbo
+- [x] Projetar Sprites da Shell
+- [x] Projetar Sprites da Yuki
 - [ ] Projetar possíveis sprites dos NPCs
 - [ ] Projetar Mapa do Game
