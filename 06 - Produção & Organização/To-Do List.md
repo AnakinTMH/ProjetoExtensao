@@ -31,5 +31,7 @@
 - [x] Projetar Sprites da Gimbo
 - [x] Projetar Sprites da Shell
 - [x] Projetar Sprites da Yuki
+- [x] Projetar Sprites do Crocs
+- [x] Projetar Sprites do Plínio
 - [ ] Projetar possíveis sprites dos NPCs
 - [ ] Projetar Mapa do Game
