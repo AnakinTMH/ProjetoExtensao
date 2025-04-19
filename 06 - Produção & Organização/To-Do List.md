@@ -23,7 +23,7 @@
 - [x] Testar outras paletas de cor
 - [x] Criar animação do Busão
 - [x] Postar para pegar Feedbacks sobre a Paleta
-- [ ] Decidir paleta de cores
+- [x] Decidir paleta de cores
 - [x] Projetar novamente sprites da Mochi
 - [x] Projetar Sprites do Punky
 - [x] Projetar Sprites da Yoyô
@@ -33,5 +33,9 @@
 - [x] Projetar Sprites da Yuki
 - [x] Projetar Sprites do Crocs
 - [x] Projetar Sprites do Plínio
-- [ ] Projetar possíveis sprites dos NPCs
+- [x] Concluir o Idle dos NPCs dos Grupos
 - [ ] Projetar Mapa do Game
+- [x] Definir estruturas existentes no parque
+- [ ] Re-colorir a game logo
+- [ ] Projetar Sprites do Motorista
+- [ ] Projetar Sprites da Professora
