@@ -66,3 +66,7 @@
 2. Bancos de madeira
 3. Bebedouros
 4. Estações de lixo reciclável e comum
+
+---
+## Mapa
+

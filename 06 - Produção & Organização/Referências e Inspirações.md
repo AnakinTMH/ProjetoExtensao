@@ -25,6 +25,8 @@
    ![[Pasted image 20250414130903.png]]
    Bloomtown: A Different Story é um JRPG narrativo que mescla combate por turnos, domesticação de monstros e RPG social que se passa num agradável mundo estadunidense dos anos 1960.
 
+6. Minit 
+
 ---
 ## Lista de Assets que me inspiram:
 

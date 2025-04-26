@@ -34,8 +34,10 @@
 - [x] Projetar Sprites do Crocs
 - [x] Projetar Sprites do Plínio
 - [x] Concluir o Idle dos NPCs dos Grupos
-- [ ] Projetar Mapa do Game
+- [x] Projetar Mapa do Game
 - [x] Definir estruturas existentes no parque
+- [x] Começar cenário do Estacionamento
 - [ ] Re-colorir a game logo
 - [ ] Projetar Sprites do Motorista
 - [ ] Projetar Sprites da Professora
+- [ ] Começar a fazer os Tilesets

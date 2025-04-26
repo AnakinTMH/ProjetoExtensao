@@ -1,6 +1,8 @@
 
 Os Sprites serão feitos no tamanho equivalente a 16x16 ou 16x32 pixeis.
 
+Uma tela/cenário do game em sí será do tamanho
+
 ---
 ## Lista de possíveis paletas de cores
 
@@ -26,7 +28,6 @@ Os Sprites serão feitos no tamanho equivalente a 16x16 ou 16x32 pixeis.
 ![[Pasted image 20250407200551.png]]  
 
 ---
-
 ## Logo 
 
 ![[ElesQueLimpemLogo.png]]
@@ -56,6 +57,11 @@ Sprite dos 2 personagens jogáveis, Koda e Mochi em Idle e Walking
 ---
 ## Terreno
 
+
+---
+## Mapa
+
+![[Pasted image 20250425145020.png]]
 
 ---
 ## Recursos
