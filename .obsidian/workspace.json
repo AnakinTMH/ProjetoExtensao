@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "da6964f1d76290b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "acbe7ef10a421baa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fbae447c6efef61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Áudio/Músicas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Músicas"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c3e377036e4ad76",
+    "type": "split",
+    "children": [
+      {
+        "id": "429684ddecdcd6e2",
+        "type": "tabs",
+        "dimension": 66.73407482305359,
+        "children": [
+          {
+            "id": "4acedd845e361313",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "c5dc51a271a3d3fc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "cebdcc683b933266",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      },
+      {
+        "id": "af73f64eba89ae2b",
+        "type": "tabs",
+        "dimension": 33.26592517694641,
+        "children": [
+          {
+            "id": "3354937bcfffc3f4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "87c4ad2a212708d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6c37088233feb7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c03dd7d06f5430d9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "04 - Áudio/Músicas.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Músicas"
+            }
+          },
+          {
+            "id": "0b7ca2d373fc93d7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "712b6847e60ac30a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fc2a58a1800bd743",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          },
+          {
+            "id": "5155d0a71dd97b96",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Criar um novo quadro": false,
+      "omnisearch:Omnisearch": false,
+      "graph:Abrir visualização em gráfico": false
+    }
+  },
+  "active": "c03dd7d06f5430d9",
+  "lastOpenFiles": [
+    "04 - Áudio/Efeitos Sonoros (SFX).md",
+    "04 - Áudio/Músicas.md",
+    "06 - Produção & Organização/Referências e Inspirações.md",
+    "02 - Narrativa/História Principal.md",
+    "02 - Narrativa/Diálogos.md",
+    "02 - Narrativa/Quests & Eventos.md",
+    "02 - Narrativa/Personagens.md",
+    "01 - Design/Sistema de Progressão.md",
+    "02 - Narrativa/Lore & Worldbuilding.md",
+    "02 - Narrativa/Mapas & Regiões.md",
+    "01 - Design/UI UX.md",
+    "01 - Design/Mecânicas.md",
+    "01 - Design/Level Design.md",
+    "01 - Design/Game Design Document (GDD).md",
+    "01 - Design/Balanceamento.md",
+    "07 - Divulgação/Publicação 2025-04-15.md",
+    "06 - Produção & Organização/Programas Utilizados.md",
+    "06 - Produção & Organização/Mapa Mental.canvas",
+    "06 - Produção & Organização/Playtests & Feedbacks.md",
+    "06 - Produção & Organização/Ideias Futuras.md",
+    "06 - Produção & Organização/BrainStorm.canvas",
+    "06 - Produção & Organização/Backlog/2025-04-25.md",
+    "05 - Programação/UI & HUD.md",
+    "05 - Programação/Scripts.md",
+    "05 - Programação/Mecânicas.md",
+    "05 - Programação/IA.md",
+    "03 - Arte & Animação/Texturas & Materiais.md",
+    "03 - Arte & Animação/Sprites & Pixel Art.md"
+  ]
+}
