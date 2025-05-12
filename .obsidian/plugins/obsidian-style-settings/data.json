@@ -1,0 +1,8 @@
+{
+  "encore-settings@@theme-dark": "encore-theme-dark-glass-royale",
+  "encore-settings@@encore-translucency": true,
+  "vicious@@scrollbar-hide": true,
+  "encore-settings@@encore-translucency-background": "encore-bg-image",
+  "encore-settings@@encore-translucency-strength": 1,
+  "encore-settings@@encore-translucency-image": "url(\"https://akamai.sscdn.co/uploadfile/letras/albuns/2/e/b/2/01667570228.jpg\")"
+}
