@@ -61,7 +61,7 @@ Sprite dos 2 personagens jogáveis, Koda e Mochi em Idle e Walking
 ---
 ## Mapa
 
-![[Pasted image 20250425145020.png]]
+![[Pasted image 20250512203603.png]]
 
 ---
 ## Recursos

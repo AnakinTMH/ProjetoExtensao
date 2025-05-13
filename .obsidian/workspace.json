@@ -197,18 +197,22 @@
       "graph:Abrir visualização em gráfico": false
     }
   },
-  "active": "c03dd7d06f5430d9",
+  "active": "3fbae447c6efef61",
   "lastOpenFiles": [
-    "04 - Áudio/Efeitos Sonoros (SFX).md",
+    "02 - Narrativa/Quests & Eventos.md",
     "04 - Áudio/Músicas.md",
-    "06 - Produção & Organização/Referências e Inspirações.md",
+    "03 - Arte & Animação/Conceitos.md",
+    "03 - Arte & Animação/Texturas & Materiais.md",
+    "03 - Arte & Animação/Sprites & Pixel Art.md",
+    "02 - Narrativa/Personagens.md",
+    "00 - Imagens & Referências/Pasted image 20250512203603.png",
+    "02 - Narrativa/Mapas & Regiões.md",
+    "02 - Narrativa/Lore & Worldbuilding.md",
     "02 - Narrativa/História Principal.md",
     "02 - Narrativa/Diálogos.md",
-    "02 - Narrativa/Quests & Eventos.md",
-    "02 - Narrativa/Personagens.md",
+    "04 - Áudio/Efeitos Sonoros (SFX).md",
+    "06 - Produção & Organização/Referências e Inspirações.md",
     "01 - Design/Sistema de Progressão.md",
-    "02 - Narrativa/Lore & Worldbuilding.md",
-    "02 - Narrativa/Mapas & Regiões.md",
     "01 - Design/UI UX.md",
     "01 - Design/Mecânicas.md",
     "01 - Design/Level Design.md",
@@ -222,10 +226,6 @@
     "06 - Produção & Organização/BrainStorm.canvas",
     "06 - Produção & Organização/Backlog/2025-04-25.md",
     "05 - Programação/UI & HUD.md",
-    "05 - Programação/Scripts.md",
-    "05 - Programação/Mecânicas.md",
-    "05 - Programação/IA.md",
-    "03 - Arte & Animação/Texturas & Materiais.md",
-    "03 - Arte & Animação/Sprites & Pixel Art.md"
+    "05 - Programação/Scripts.md"
   ]
 }
