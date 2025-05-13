@@ -4,7 +4,7 @@ O jogo se passa em 2 sessões, a parte da manhã e fim da tarde.
 
 - Algumas missões ficarão disponíveis em apernas em determinado horário.
 
-- Algumas missões podem ser feitas em conjunto com outro grupo para Boicote
+- Algumas missões podem ser feitas em conjunto com outro grupo para Boicote]
 
 
 ## Parte da manhã
