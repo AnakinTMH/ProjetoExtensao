@@ -37,6 +37,10 @@
 - [x] Projetar Mapa do Game
 - [x] Definir estruturas existentes no parque
 - [x] Começar cenário do Estacionamento
+- [x] Terminar o cenário do Estacionamento
+- [ ] Terminar o cenário da Torre do Relógio
+- [ ] Terminar o cenário da Fonte
+- [ ] Terminar o cenário da Ponte
 - [ ] Re-colorir a game logo
 - [ ] Projetar Sprites do Motorista
 - [ ] Projetar Sprites da Professora
